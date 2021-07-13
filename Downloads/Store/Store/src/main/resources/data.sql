@@ -1,0 +1,5 @@
+insert into product values(1,TO_DATE('05/07/2021', 'DD/MM/YYYY'),10,500,'copy',50)
+insert into product values(2,TO_DATE('05/07/2021', 'DD/MM/YYYY'),15,300,'pen',20)
+insert into customer values(1,TO_DATE('05/07/2021', 'DD/MM/YYYY'),'Ravi',10,'copy',20)
+insert into customer values(2,TO_DATE('05/07/2021', 'DD/MM/YYYY'),'RS',5,'pen',20)
+insert into account values(1,TO_DATE('05/07/2021', 'DD/MM/YYYY'),20,400,'pen')
